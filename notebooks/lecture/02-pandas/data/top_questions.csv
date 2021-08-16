@@ -1,0 +1,101 @@
+question_id,last_activity_date,title,view_count,score,tags,is_answered
+11227809,2016-03-18 15:21:25,Why is processing a sorted array faster than an unsorted array?,763090,13991,"['java', 'c++', 'performance', 'optimization', 'branch-prediction']",True
+927358,2016-03-17 08:36:29,How do you undo the last commit?,3016755,9613,"['git', 'git-commit', 'git-reset']",True
+179123,2016-03-17 12:51:58,Edit an incorrect commit message in Git,1580022,7688,"['git', 'git-commit', 'git-rewrite-history', 'amend']",True
+2003505,2016-03-17 03:41:53,Delete a Git branch both locally and remotely,2526493,7057,"['git', 'github', 'git-branch', 'git-remote']",True
+477816,2016-03-14 10:24:29,What is the correct JSON content type?,1320647,6479,"['json', 'content-type']",True
+292357,2016-01-25 17:28:50,What are the differences between &#39;git pull&#39; and &#39;git fetch&#39;?,1218582,5828,"['git', 'git-pull', 'git-fetch']",True
+111102,2016-03-15 17:12:58,How do JavaScript closures work?,752594,5556,"['javascript', 'closures']",True
+1642028,2016-02-22 13:35:26,What is the name of the &quot;--&gt;&quot; operator?,406522,5146,"['c++', 'c', 'operators', 'code-formatting', 'standards-compliance']",True
+503093,2016-03-04 10:49:06,How can I make a page redirect using jQuery?,2751096,4849,"['javascript', 'jquery', 'redirect']",True
+79923,2015-12-29 23:59:09,What and where are the stack and heap?,771784,4753,"['memory-management', 'language-agnostic', 'stack', 'heap']",True
+231767,2016-03-07 15:46:18,What does the yield keyword do in Python?,917524,4611,"['python', 'iterator', 'generator', 'yield', 'coroutine']",True
+14994391,2015-06-24 10:00:21,&quot;Thinking in AngularJS&quot; if I have a jQuery background?,606190,4536,"['javascript', 'jquery', 'angularjs', 'design']",True
+348170,2015-12-08 09:58:33,Undo &#39;git add&#39; before commit,1092738,4471,"['git', 'version-control', 'git-stage']",True
+1335851,2016-03-17 07:33:44,"What does &quot;use strict&quot; do in JavaScript, and what is the reasoning behind it?",611425,4396,"['javascript', 'syntax', 'jslint', 'use-strict']",True
+178325,2016-03-10 17:18:21,Checking if an element is hidden,1381240,4383,"['javascript', 'jquery', 'dom', 'visibility']",True
+1789945,2016-03-03 22:09:28,How can I check if one string contains another substring?,2820303,4362,"['javascript', 'string', 'string-matching']",True
+388242,2016-03-18 00:54:52,The Definitive C++ Book Guide and List,1207677,4265,"['c++', 'c++-faq']",True
+6841333,2016-03-16 10:34:33,Why is subtracting these two times (in 1927) giving a strange result?,365036,4108,"['java', 'date', 'timezone']",True
+336859,2016-02-04 18:05:39,var functionName = function() {} vs function functionName() {},590836,3777,"['javascript', 'function', 'syntax', 'idioms']",True
+8318911,2016-01-31 12:08:56,Why does HTML think “chucknorris” is a color?,247696,3767,"['html', 'background-color']",True
+549,2016-03-04 08:49:56,The definitive guide to form-based website authentication,391443,3746,"['security', 'http', 'authentication', 'language-agnostic', 'article']",True
+4456438,2015-08-13 23:05:33,How do I correctly pass the string &quot;Null&quot; (an employee&#39;s proper surname) to a SOAP web service from ActionScript 3?,790270,3733,"['flex', 'actionscript', 'soap', 'coldfusion', 'wsdl']",True
+6591213,2016-01-25 09:31:54,How do I rename the local branch?,869232,3586,"['git', 'git-branch']",True
+359494,2016-01-04 13:26:38,Does it matter which equals operator (== vs ===) I use in JavaScript comparisons?,783662,3554,"['javascript', 'operators', 'equality', 'equality-operator', 'identity-operator']",True
+61212,2016-03-02 02:09:47,How do I remove local (untracked) files from my current Git branch?,800428,3307,"['git', 'branch', 'git-branch']",True
+487258,2016-03-10 23:03:36,Plain English explanation of Big O,416141,3303,"['algorithm', 'complexity-theory', 'computer-science', 'big-o', 'time-complexity']",True
+2025282,2016-03-14 19:48:41,"Difference between px, dp, dip and sp on Android?",702673,3292,"['android', 'android-layout', 'user-interface', 'units-of-measurement']",True
+7074,2016-03-16 19:35:32,What&#39;s the difference between String and string?,539902,3265,"['c#', 'string']",True
+4114095,2016-03-17 11:04:04,Revert Git repo to a previous commit,2025447,3225,"['git', 'git-reset', 'git-revert']",True
+244777,2016-03-18 21:38:56,Can I use comments inside a JSON file?,562618,3141,"['json', 'comments']",True
+40480,2016-03-16 15:29:29,Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?,914976,3011,"['java', 'parameter-passing', 'terminology', 'pass-by-reference', 'pass-by-value']",True
+161813,2016-01-26 17:42:46,Fix merge conflicts in Git?,1266019,2874,"['git', 'git-merge', 'merge-conflict-resolution', 'git-conflict-resolution']",True
+826782,2016-02-22 21:10:30,CSS rule to disable text selection highlighting,904457,2865,"['css', 'cross-browser', 'highlighting', 'textselection']",True
+60174,2016-01-02 13:09:16,How can I prevent SQL-injection in PHP?,863640,2788,"['php', 'mysql', 'sql', 'security', 'sql-injection']",True
+1783405,2016-02-24 09:06:49,Checkout remote Git branch,1723343,2770,"['git', 'git-checkout', 'remote-branch']",True
+100003,2016-03-01 19:48:34,What is a metaclass in Python?,367607,2763,"['python', 'oop', 'metaclass', 'python-datamodel']",True
+417142,2016-03-14 18:02:26,What is the maximum length of a URL in different browsers?,598946,2761,"['http', 'url', 'browser', 'max', 'content-length']",True
+14415881,2015-12-04 15:21:48,Pair socks from a pile efficiently?,278046,2732,"['algorithm', 'sorting', 'language-agnostic', 'matching']",True
+630453,2016-02-18 16:13:50,PUT vs POST in REST,828013,2714,"['http', 'rest', 'post', 'put']",True
+122102,2016-03-12 14:59:41,What is the most efficient way to clone an object?,910062,2707,"['javascript', 'object', 'clone']",True
+901115,2016-03-11 07:25:13,How can I get query string values in JavaScript?,1895660,2706,"['javascript', 'url', 'plugins', 'query-string']",True
+134845,2016-02-20 02:02:24,Href attribute for JavaScript links: &quot;#&quot; or &quot;javascript:void(0)&quot;?,1568755,2687,"['javascript', 'html', 'performance', 'optimization', 'href']",True
+1125968,2016-03-12 23:55:36,Force Git to overwrite local files on pull,1405458,2661,"['git', 'version-control', 'overwrite', 'git-pull', 'git-fetch']",True
+208105,2016-02-21 18:15:18,How do I remove a property from a JavaScript object?,787956,2654,['javascript'],True
+38549,2016-02-02 11:43:28,Difference between INNER and OUTER joins,1396994,2632,"['sql', 'join', 'inner-join', 'outer-join', 'difference']",True
+5767325,2016-01-29 09:01:25,Remove a particular element from an array in JavaScript?,1896833,2611,"['javascript', 'arrays']",True
+67699,2016-03-11 20:01:06,Clone all remote branches with Git?,646879,2556,"['git', 'git-branch', 'git-clone', 'remote-branch']",True
+950087,2015-12-10 09:34:55,Include a JavaScript file in another JavaScript file?,1410666,2552,"['javascript', 'file', 'import', 'include']",True
+8710619,2016-03-13 22:38:07,"Java +=, -=, *=, /= operators",142621,2525,"['java', 'casting', 'operators', 'variable-assignment', 'assignment-operator']",True
+901712,2016-01-18 17:23:38,Check checkbox checked property,2220625,2508,"['javascript', 'jquery', 'checkbox']",True
+59895,2016-03-07 14:45:57,Can a Bash script tell what directory it&#39;s stored in?,751103,2471,"['bash', 'directory']",True
+2193953,2013-09-01 22:05:49,Flash CS4 refuses to let go,99019,2467,"['flash', 'caching', 'compiler-construction', 'flash-cs4']",True
+426258,2016-03-11 18:14:56,Setting &quot;checked&quot; for a checkbox with jQuery?,1872936,2454,"['javascript', 'jquery', 'checkbox', 'selected', 'checked']",True
+271526,2016-02-23 12:14:13,Avoiding != null statements,693551,2377,"['java', 'nullpointerexception', 'null']",True
+2610497,2016-03-15 09:30:04,Change an input&#39;s HTML5 placeholder color with CSS,1006784,2354,"['html', 'css', 'html5', 'html-input']",True
+3737139,2016-03-14 16:07:16,Reference - What does this symbol mean in PHP?,324530,2293,"['php', 'operators', 'symbols']",True
+176264,2016-03-07 18:56:49,"What is the difference between a URI, a URL and a URN",501252,2260,"['http', 'url', 'uri', 'urn', 'rfc3986']",True
+82831,2016-02-25 09:42:47,How to check whether a file exists using Python,1328985,2259,"['python', 'file', 'filesystems']",True
+9329446,2016-03-02 20:13:52,For-each over an array in JavaScript?,2098490,2249,"['javascript', 'arrays', 'loops', 'foreach', 'iteration']",True
+1554099,2016-02-22 18:33:40,Why is the Android emulator so slow? How can we speed up the Android emulator?,717734,2228,"['android', 'performance', 'android-emulator', 'qemu']",True
+114543,2016-03-15 11:33:04,Horizontally center a div in a div,2099749,2225,"['html', 'css', 'alignment']",True
+15666048,2016-03-18 14:06:07,AngularJS: Service vs provider vs factory,518507,2202,"['angularjs', 'dependency-injection', 'angularjs-service', 'angularjs-factory', 'angularjs-provider']",True
+1260748,2016-03-02 09:39:28,How do I remove a submodule?,386320,2179,"['git', 'git-submodules']",True
+115983,2016-03-17 11:41:16,How can I add an empty directory to a Git repository?,392720,2174,"['git', 'directory', 'git-add']",True
+221294,2016-03-16 05:45:22,How do you get a timestamp in JavaScript?,1237009,2165,"['javascript', 'date', 'datetime', 'timestamp', 'unix-timestamp']",True
+201323,2016-01-28 05:15:38,Using a regular expression to validate an email address,761963,2162,"['php', 'regex', 'email', 'email-validation']",True
+13375357,2016-03-15 00:40:22,Proper use cases for Android UserManager.isUserAGoat()?,207385,2154,"['java', 'android', 'usermanager']",True
+406230,2015-12-17 15:33:24,Regular expression to match line that doesn&#39;t contain a word?,1530505,2144,"['regex', 'regex-negation']",True
+394809,2016-03-16 16:36:22,Does Python have a ternary conditional operator?,567927,2133,"['python', 'operators', 'conditional-operator', 'python-2.5']",True
+52704,2016-02-05 00:59:53,How do you discard unstaged changes in Git?,972966,2130,['git'],True
+520650,2015-12-22 09:46:13,Make an existing Git branch track a remote branch?,570440,2126,"['git', 'branch', 'git-branch']",True
+2669690,2015-12-07 11:26:16,Why does Google prepend while(1); to their JSON responses?,214816,2108,"['javascript', 'ajax', 'json']",True
+339923,2015-12-18 15:29:37,Set cellpadding and cellspacing in CSS?,1485455,2080,"['html', 'css', 'alignment', 'html-table', 'stylesheet']",True
+105372,2016-03-17 19:41:48,How do I enumerate an enum?,391764,2044,"['c#', '.net', 'enums', 'enumeration']",True
+40471,2016-01-05 18:35:42,Differences between HashMap and Hashtable?,848247,2028,"['java', 'hashtable', 'hashmap']",True
+1628563,2016-01-21 16:10:36,Move the most recent commit(s) to a new branch with Git,286945,2020,"['git', 'git-branch', 'branching-and-merging']",True
+309424,2016-03-10 06:09:39,Read/convert an InputStream to a String,1032195,1990,"['java', 'string', 'io', 'stream', 'inputstream']",True
+671118,2016-01-18 18:35:49,What exactly is RESTful programming?,556297,1969,"['http', 'rest', 'definition']",True
+105034,2016-02-11 10:56:46,Create GUID / UUID in JavaScript?,627270,1958,"['javascript', 'guid', 'uuid']",True
+5062614,2016-01-25 09:31:28,How do I decide when to use Node.js?,256856,1949,"['javascript', 'design', 'web-applications', 'node.js']",True
+89228,2016-03-17 10:48:32,Calling an external command in Python,1327470,1941,"['python', 'shell', 'command', 'subprocess', 'external']",True
+237104,2016-02-26 13:09:26,How do I check if an array includes an object in JavaScript?,1286834,1915,"['javascript', 'arrays', 'browser']",True
+1986896,2016-02-03 13:19:08,What is the difference between call and apply?,426799,1891,"['javascript', 'performance', 'function', 'dynamic']",True
+1357118,2016-01-23 23:54:57,event.preventDefault() vs. return false,521133,1879,"['javascript', 'jquery', 'javascript-events', 'event-handling', 'event-propagation']",True
+2765421,2016-02-19 16:53:20,Push a new local branch to a remote Git repository and track it too,1079986,1870,"['git', 'repository', 'git-branch']",True
+166221,2016-01-26 08:31:31,How can I upload files asynchronously?,892536,1855,"['javascript', 'jquery', 'ajax', 'asynchronous', 'upload']",True
+2389361,2016-02-24 16:12:35,Undo a Git merge that hasn&#39;t been pushed yet?,847929,1849,"['git', 'undo', 'git-merge']",True
+14220321,2016-03-08 22:16:31,How do I return the response from an asynchronous call?,495210,1847,"['javascript', 'jquery', 'ajax', 'asynchronous']",True
+1109022,2016-02-09 21:18:22,Close/hide the Android Soft Keyboard,728708,1840,"['android', 'keyboard', 'android-softkeyboard', 'android-keypad', 'android-input-method']",True
+8881291,2016-03-03 18:54:55,Why is char[] preferred over String for passwords in Java?,175834,1827,"['java', 'string', 'security', 'passwords', 'char']",True
+215718,2016-01-22 08:14:18,Reset or revert a specific file to a specific revision using Git?,655501,1806,"['git', 'version-control']",True
+59838,2016-03-16 17:01:20,Check if a directory exists in a shell script,1260714,1787,"['shell', 'unix', 'posix']",True
+1066589,2015-12-16 09:34:28,Iterate through a HashMap,1834259,1760,"['java', 'loops', 'hashmap', 'iteration']",True
+157944,2016-02-06 08:56:21,Create ArrayList from array,730222,1751,"['java', 'arrays', 'arraylist']",True
+2334712,2016-02-24 23:35:12,UPDATE from SELECT using SQL Server,1894211,1745,"['sql', 'sql-server', 'tsql', 'select', 'sql-update']",True
+739654,2015-12-17 15:39:10,How can I make a chain of function decorators in Python?,333705,1739,"['python', 'decorator', 'python-decorators']",True
+2432764,2015-12-28 04:53:35,Change the URI (URL) for a remote Git repository,607351,1739,"['git', 'url', 'git-remote']",True
+46155,2016-03-14 11:59:30,Validate email address in JavaScript?,1114139,1716,"['javascript', 'regex', 'validation', 'email', 'email-validation']",True
+1519006,2015-12-24 05:00:55,How do you create a remote Git branch?,883461,1715,"['git', 'branch', 'git-branch']",True
+363681,2016-02-28 04:19:29,Generating random integers in a specific range,2048935,1714,"['java', 'random', 'integer', 'range']",True
